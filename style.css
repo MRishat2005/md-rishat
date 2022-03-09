@@ -66,6 +66,7 @@ section {
 }
 
 .single-experience{
+    background-color: white;
     box-shadow: 10px 10px 10px gray;
     border-radius: 5px;
     height: 60%;
@@ -81,4 +82,9 @@ section {
     border-left: 7px solid;
     border-image: linear-gradient(180deg, rgb(47, 0, 255), rgb(71, 243, 255));
     border-image-slice: 1;
+}
+
+footer{
+    text-align: center;
+    font-size: 10px;
 }
